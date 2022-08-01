@@ -1,0 +1,65 @@
+
+---Downloaded files---
+The import files for: Business were successfully downloaded!
+Initial max execution time = 1200
+Files info:
+Site URL = http://indexatest.local
+Data file = C:\Users\RVN\Local Sites\indexatest\app\public\wp-content\plugins\keydesign-addon\theme\admin/demos/business/demo-content.xml
+Widget file = C:\Users\RVN\Local Sites\indexatest\app\public\wp-content\plugins\keydesign-addon\theme\admin/demos/general/widgets.wie
+Customizer file = not defined!
+Redux files:
+redux_ThemeTek -> C:\Users\RVN\Local Sites\indexatest\app\public\wp-content\plugins\keydesign-addon\theme\admin/demos/business/theme-options.json 
+
+
+---pt-ocdi/before_widgets_import---
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Imported
+Categories - No Title - Imported
+Tag Cloud - No Title - Imported
+Social Icons - Social - Imported
+
+Shop Sidebar : 
+
+woocommerce_product_search - Search Products - Site does not support widget
+woocommerce_product_categories - Product categories - Site does not support widget
+woocommerce_price_filter - Filter by price - Site does not support widget
+woocommerce_product_tag_cloud - Product tags - Site does not support widget
+woocommerce_top_rated_products - Top rated products - Site does not support widget
+
+Page Sidebar : 
+
+Search - Search site - Imported
+Navigation Menu - Navigation - Imported
+Categories - No Title - Imported
+Tag Cloud - Tags - Imported
+Text - About us - Imported
+Social Icons - Social - Imported
+Text - Subscribe to newsletter - Imported
+
+Footer first widget area : 
+
+Navigation Menu - About - Imported
+
+Footer second widget area : 
+
+Navigation Menu - Additional links - Imported
+
+Footer third widget area : 
+
+Categories - Categories - Imported
+
+Footer fourth widget area : 
+
+Text - Ekko - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: redux_ThemeTek finished successfully!
+
+---pt-ocdi/after_import---
+ Slider processed

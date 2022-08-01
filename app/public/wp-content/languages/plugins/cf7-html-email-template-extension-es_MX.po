@@ -1,0 +1,85 @@
+# Translation of Plugins - HTML Template for CF7 - Development (trunk) in Spanish (Mexico)
+# This file is distributed under the same license as the Plugins - HTML Template for CF7 - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-03-30 14:06:14+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es_MX\n"
+"Project-Id-Version: Plugins - HTML Template for CF7 - Development (trunk)\n"
+
+#. translators: %1$s is the plugin name and %2%s is the action of click.
+#. translators: %1$s is the plugin name and %2%s is the action of click.
+#: modules/dependence/class-module-dependence.php:122
+#: modules/dependence/class-module-dependence.php:142
+msgid "<strong>HTML Template for CF7</strong> depends of %1$s to work. Click to %2$s."
+msgstr "<strong>HTML Template for CF7</strong> depende de %1$s para funcionar. Haz clic para %2$s."
+
+#: modules/dependence/class-module-dependence.php:124
+msgid "install the plugin"
+msgstr "instalar el plugin"
+
+#: modules/dependence/class-module-dependence.php:144
+msgid "activate the plugin"
+msgstr "activar el plugin"
+
+#. Plugin URI of the plugin
+msgid "https://github.com/mariovalney/cf7-html-email-template-extension"
+msgstr "https://github.com/mariovalney/cf7-html-email-template-extension"
+
+#. Plugin Name of the plugin
+msgid "HTML Template for CF7"
+msgstr "HTML Template for CF7"
+
+#. Author URI of the plugin
+msgid "https://mariovalney.com"
+msgstr "https://mariovalney.com"
+
+#. Author of the plugin
+msgid "Mário Valney"
+msgstr "Mário Valney"
+
+#. Description of the plugin
+msgid "Improve your Contact Form 7 emails with a HTML Template."
+msgstr "Mejora tus correos electrónicos de Contact Form 7 con una plantilla HTML."
+
+#: modules/cf7/includes/view/html-template-panel-html.php:89
+msgid "HTML for Footer"
+msgstr "HTML para el pie de página"
+
+#: modules/cf7/includes/view/html-template-panel-html.php:77
+msgid "HTML for Header"
+msgstr "HTML para la cabecera"
+
+#: modules/cf7/includes/view/html-template-panel-html.php:67
+msgid "You can use these tags to use dinamic content"
+msgstr "Puedes usar estas etiquetas para utilizar contenido dinámico"
+
+#: modules/cf7/includes/view/html-template-panel-html.php:65
+msgid "In the following fields, you can set the markup of header and footer itself. %s Instructions%s"
+msgstr "En los siguientes campos puedes establecer el propio marcado de la cabecera y del pie de página. %sInstrucciones%s"
+
+#: modules/cf7/includes/view/html-template-panel-html.php:60
+msgid "Advanced Settings"
+msgstr "Ajustes avanzados"
+
+#: modules/cf7/includes/view/html-template-panel-html.php:50
+msgid "Activate in this form ( force HTML content type for emails )"
+msgstr "Activar en este formulario (forzar el tipo de contenido HTML para los correos electrónicos)"
+
+#: modules/cf7/includes/view/html-template-panel-html.php:43
+msgid "Activate"
+msgstr "Activar"
+
+#: modules/cf7/includes/view/html-template-panel-html.php:35
+msgctxt "HTML Template Module Legend"
+msgid "In the following fields, you can activate the HTML Template for emails."
+msgstr "En los siguientes campos puedes activar la plantilla HTML para los correos electrónicos."
+
+#: modules/cf7/class-module-cf7.php:163
+#: modules/cf7/includes/view/html-template-panel-html.php:30
+msgid "HTML Template"
+msgstr "Plantilla HTML"
